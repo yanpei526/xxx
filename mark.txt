@@ -2,5 +2,6 @@ new new mark
 haha~~
 dev or branch
 add ~~ branch2
+add -- branch1
 fix bug 001
 stash
