@@ -1,4 +1,4 @@
-/* Synthesize Singleton For Class —yanpei
+/* Synthesize Singleton For Class —yanpei —2
  *
  * Creates a singleton interface for the specified class with the following methods:
  *
